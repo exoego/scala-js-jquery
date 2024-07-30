@@ -1,3 +1,9 @@
+# DEPRECATED
+============
+
+Use [ScalablyTyped](https://scalablytyped.org/docs/readme.html) instead 🙇
+
+
 scala-js-jquery
 ===============
 
